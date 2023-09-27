@@ -1,4 +1,4 @@
-# Marne_Hackathon
+# Marne_Hackathon (Winter 2022)
 
 Project Statement: Development of a Low-Cost, Lightweight, and Easily Constructible Decoy Infantry Fighting Vehicle with Dynamic Sensor Deception Capability
 
