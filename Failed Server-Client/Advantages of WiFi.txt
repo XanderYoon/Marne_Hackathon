@@ -1,0 +1,11 @@
+Advantages of WiFi:
+    -HTML offers improved graphical/user interface
+
+Fatal Flaw:
+    -The (short) range of Wifi is the biggest detractor
+    -Weak connection and latency
+    -I failed to create a two board setup
+        -Board A: both an access point (AP) and a server (this is not possible on ESP8266)
+        -Board B: a client
+    -Unsure how scalable: being able to individually control each ESP8266 (the IP addresses would identical amongst all clients)
+

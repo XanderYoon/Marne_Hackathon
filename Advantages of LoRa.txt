@@ -1,0 +1,11 @@
+Advantages of LoRa:
+    -Higher security (out of usual frequency range)
+         -Chirp spread spectrum
+    -(Long Range Radio) is the range of effectiveness
+    -Generally faster/lower latency
+    -Cheaper
+    -Lower power usage = longer life span in the field (without needing charging)
+
+Fatal Flaw:
+    -Lacks ability to be scaled
+        -cannot easily control multiple ESP8266s off of one interface
